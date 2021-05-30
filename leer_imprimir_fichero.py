@@ -1,4 +1,4 @@
-filepath = "C:\PythonScripts\kk.txt"
+filepath = "kk.txt"
 with open(filepath) as fp:
     for i, line in enumerate(fp):
         if i >= 10:
